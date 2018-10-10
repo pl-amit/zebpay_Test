@@ -1,0 +1,17 @@
+{
+  "name": "erc20_api",
+  "version": "1.0.0",
+  "description": "Test API for zebpay assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "restify-clients": "^2.5.2",
+    "truffle": "^4.1.14",
+    "web3": "^0.20.6"
+  }
+}
